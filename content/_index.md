@@ -35,7 +35,7 @@ Here’s one of my recent class projects:
 
 It’s a prototype for a student-to-student marketplace platform that we built in a team for a software studio course.
 
-![My photo](/marketplace.png)
+![My photo](marketplace.png)
 
 ---
 
